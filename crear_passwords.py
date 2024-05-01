@@ -1,6 +1,6 @@
 import sqlite3
 
-DATABASE_PATH = '/Users/leolo/OneDrive/Desktop/Ciclo_1/flask/basededatos.db'
+DATABASE_PATH = 'basededatos.db'
 
 # Function to obtain database connection and cursor
 def obtener_cursor():
